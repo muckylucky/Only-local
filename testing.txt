@@ -1,7 +1,3 @@
-B
-
-Blah blah copy blah.
-
 More copy down here.
 
 RAH!
@@ -16,14 +12,19 @@ More copy down here.
 
 RAH!
 
-**********************************************
+******************
 More Copy addd here
 **********************************************lah blah copy blah.
+**********************************************
 
-More copy down here.
+Blah blah copy blah.
+
 
 RAH!
 
 **********************************************
 More Copy addd here
 **********************************************
+
+lah blah copy blah.
+
